@@ -1,0 +1,64 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+.green {
+    background-color: green;
+    border-radius: 10px;
+    width: 15%;
+    height: 250px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.green:hover {
+    background-color: white;
+    border: 2px solid black;
+}
+
+.blue {
+
+    background-color: blue;
+    border-radius: 360px;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.blue:hover {
+    background-color: white;
+    border: 2px solid black;
+}
+
+.yellow {
+    background-color: yellow;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+.yellow:hover {
+    background-color: white;
+    border: 2px solid black;
+}
+
+
+
+.green2 {
+    background-color: green;
+    border-radius: 40px;
+    width: 850px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+.green2:hover {
+    background-color: white;
+    border: 2px solid black;
+}

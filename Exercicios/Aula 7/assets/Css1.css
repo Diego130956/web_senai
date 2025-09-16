@@ -1,0 +1,25 @@
+.header {
+    background-color: green;
+    height: 100px;
+}
+.main {
+    background-color: blue;
+    height: 200px;
+    display: inline-block;
+    width: 49.7%;
+
+}
+
+.main2 {
+    background-color: yellow;
+    height: 200px;
+    display: inline-block;
+    width: 49.7%;
+}
+.header2 {
+    background-color: green;
+    height: 100px;
+}
+body {
+    background-color: lightblue;
+}
