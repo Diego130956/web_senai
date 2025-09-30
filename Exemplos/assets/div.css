@@ -1,0 +1,85 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.pai {
+    display: flex;
+    background: green;
+    border: 1px solid black;
+}
+.pai div {
+    border: 1px solid black;
+    background: lightgreen;
+    flex: auto;
+    text-align: center;
+
+}
+
+.pai-1 {
+    display: flex;
+    flex-direction: column;
+    background: green;
+    border: 1px solid black;
+}
+.pai-1 div {
+    border: 1px solid black;
+    background: lightgreen;
+    flex: auto;
+    text-align: center;
+
+
+}
+
+.pai-2 {
+    display: flex;
+    flex-direction: row;
+    background: green;
+    border: 1px solid black;
+}
+.pai-2 div {
+    border: 1px solid black;
+    background: lightgreen;
+    flex: auto;
+    text-align: center;
+}
+
+.section{
+    display: flex;
+    border: 1px solid red;
+    padding: 5px;
+}
+
+.left, .right{
+    flex: auto;
+    border: 1px solid black;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+.pai-3-l{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+}
+.pai-3-l div{
+    border: 1px solid black;
+    margin: 5px ;
+    padding: 5px;
+
+}
+
+.pai-3-r{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    justify-content: center;
+    height: 200px;
+}
+.pai-3-r div{
+    border: 1px solid black;
+    margin: 5px ;
+    padding: 5px
+}
