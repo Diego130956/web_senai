@@ -14,13 +14,21 @@ body{
 }
 
 .blue{
-    background-color: cornflowerblue;
-    height: 280px;
+    height: 350px;
     display: flex;
-    padding: 10px;
     margin: 10px;
+    justify-content: space-evenly;
 
+}
 
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.right{
+    display: flex;
+    justify-content: center;
 }
 
 

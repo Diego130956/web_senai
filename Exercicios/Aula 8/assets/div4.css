@@ -1,0 +1,109 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.header{
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+    height: 100px;
+    display: flex;
+    font-size: 20px;
+    color: white;
+    align-items: center;
+}
+
+.logo {
+    font-size: 50px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.pai {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+
+}
+.pai a {
+    color: white;
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.right {
+    display: flex;
+    flex: auto;
+
+}
+.pai a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.right{
+    display: flex;
+    justify-content: space-around;
+}
+.pai1 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.pai1 div{
+    background-color: #a0d9f0;
+    height: 110px;
+    display: inline-block;
+    margin: 28.9px;
+    padding:28.9px;
+    border: 1px black;
+    flex: auto;
+    text-align: center;
+    font-size: 12px     ;
+
+}
+
+.pai1 div{
+    background-color: #a0d9f0;
+    height: 110px;
+    display: flex;
+    margin: 28.9px;
+    padding: 28.9px;
+    border: 1px black;
+    flex: auto;
+    text-align: center;
+    font-size: 12px;
+
+}
+
+.pai1 div{
+    background-color: #a0d9f0;
+    height: 110px;
+    display: inline-block;
+    margin: 28.9px;
+    padding: 28.9px;
+    border: 1px black;
+    flex: auto;
+    text-align: center;
+    width: 24.8%;
+    font-size: 12px;
+}
+li {
+    margin: 20px;
+}
+
+
