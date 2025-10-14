@@ -1,0 +1,47 @@
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 7px;
+
+    font-family: arial;
+}
+thead{
+    background-color: midnightblue;
+}
+.azul{
+    color: aqua;
+    background-color: midnightblue;
+    text-align: center;
+}
+.num{
+    color: lawngreen;
+    background-color: midnightblue;
+     text-align: center;
+}
+.num2{
+    background-color: midnightblue;
+    color: dodgerblue;
+    text-align: center;
+}
+.num3{
+    background-color: midnightblue;
+    color: yellow;
+    text-align: center;
+}
+.num4{
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+}
+.num5{
+    background-color: midnightblue;
+    color: red;
+    text-align: center;
+}
+.ponto{
+    background-color: aqua;
+    color: midnightblue;
+}
+.nome{
+    color: darkblue;
+}

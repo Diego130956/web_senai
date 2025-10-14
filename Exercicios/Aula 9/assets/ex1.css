@@ -1,0 +1,22 @@
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+thead {
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+h3 {
+    color: midnightblue;
+    text-align: center;
+}
+th {
+
+    width: 100px;
+}
+table {
+    margin: auto;
+}
